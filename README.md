@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a junior  Front-end developer and junior  Full-stack developer at junior level .<br>I use AI tools for the fast development and integration.<br>I like to collaborate with software companies who are in need of developers. <br>I use various technologies to develop reliable web applications
+I'm a Front-end developer and Full-stack developer at junior level .<br>I use AI tools for the fast development and integration.<br>I like to collaborate with software companies who are in need of developers. <br>I use various technologies to develop reliable web applications
 
 
 ## 🌐 Socials:
